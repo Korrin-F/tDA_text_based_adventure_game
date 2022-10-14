@@ -1,4 +1,4 @@
-# Assignment 4 from the Developer Accademy 
+# Assignment 4 from the Developer Academy 
 
 ## Assignment Instructions
 Let users move through rooms based on user input and get descriptions of each room. 
